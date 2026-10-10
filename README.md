@@ -1,4 +1,7 @@
 ## Hi there 👋
 
 
-Python Developer.
+## Python Developer.
+
+- Complete idiot aswell
+- plays to much roblox
