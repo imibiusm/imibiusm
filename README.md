@@ -13,7 +13,7 @@
 
 ## Currently learning
 
--- Javascript
--- React
+- Javascript
+- React
 
   
