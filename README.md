@@ -1,9 +1,19 @@
 ## Hi there 👋
 
 
-## About me.
+## My languages
 
-- Complete idiot aswell
-- plays to much roblox
-- knows python
+- Python
+
+## Frameworks
+
+- FastAPI
+- Flask
+- Jinja2
+
+## Currently learning
+
+-- Javascript
+-- React
+
   
