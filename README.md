@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Am a backend developer focusing on REST API's and authentication.
+(I don't like frontend)
 
 ## My languages
 
